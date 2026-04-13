@@ -36,7 +36,7 @@ Atualmente focado na ponte entre o **baixo nível (Hardware)** e o **alto nível
 
 ---
 
-### 🎮 Atividade no GitHub:
+### 🎮 Atividade no GitHub (Snake Game):
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -46,7 +46,7 @@ Atualmente focado na ponte entre o **baixo nível (Hardware)** e o **alto nível
 ### 📖 Jornada na PUC Goiás
 Onde a teoria encontra a prática:
 * **Foco Atual:** Otimização de algoritmos e entendimento do ciclo de instrução.
-* **Ferramentas de Estudo:** Uso intenso de **Obsidian** para Zettelkasten e documentação técnica.
+* **Ferramentas de Estudo:** Uso intenso de **Obsidian** para documentação técnica.
 
 ---
 
