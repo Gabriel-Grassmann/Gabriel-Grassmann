@@ -46,17 +46,13 @@
   <table border="0">
     <tr align="center">
       <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&theme=dracula&hide_title=true&include_all_commits=true&langs_count=6" />
+        <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" />
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" />
 </div>
 
 ---
