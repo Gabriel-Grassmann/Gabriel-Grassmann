@@ -44,12 +44,12 @@
 
 <div align="center">
   <table border="0">
-    <tr align="center" valign="middle">
-      <td>
-        <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" />
+    <tr>
+      <td width="50%" align="center">
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Estatísticas" />
       </td>
-      <td>
-        <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&theme=dracula&hide_title=true&hide_border=true&langs_count=6" />
+      <td width="50%" align="center">
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&theme=dracula&hide_title=true&v=2" alt="Linguagens" />
       </td>
     </tr>
   </table>
