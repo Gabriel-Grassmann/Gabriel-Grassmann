@@ -63,11 +63,9 @@ Focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automaç�
 
 ---
 
-<div align="left">
-  <a href="https://open.spotify.com/user/SEU_ID_AQUI">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=gabrielsolera00&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
-  </a>
-</div>
+<p align="left">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=Gabe&count=1&theme=dark" alt="Recentemente tocado" />
+</p>
 
 ---
 
