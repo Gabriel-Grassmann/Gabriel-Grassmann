@@ -43,13 +43,19 @@
 ### 📊 Estatísticas & Performance
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Grassmann&theme=dracula" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Estatísticas" />
+    <tr align="center">
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
       </td>
-      <td width="50%" align="center">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&theme=dracula&hide_title=true&v=2" alt="Linguagens" />
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" />
       </td>
     </tr>
   </table>
