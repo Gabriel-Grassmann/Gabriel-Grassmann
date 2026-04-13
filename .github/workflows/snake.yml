@@ -8,18 +8,23 @@ on:
   # permite rodar manualmente a qualquer momento
   workflow_dispatch:
   
-  # roda a cada push na branch main
+  # rodar em cada push no branch main
   push:
     branches:
     - main
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
-      # gera o jogo da cobrinha a partir do seu histórico de commits
+      # gera a cobrinha a partir do gráfico de contribuições
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,12 +32,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # envia o conteúdo gerado para a branch 'output'
+
+      # envia o conteúdo de 'dist' para o branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
