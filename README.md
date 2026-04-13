@@ -1,19 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d4ff&height=200&section=header&text=Gabriel%20Grassmann&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
 
-# Olá, eu sou o Gabriel Grassmann 👋
-
-### 🎓 Bacharelando em Ciência da Computação na PUC Goiás
-> Focado na convergência entre **Hardware (Baixo Nível)** e **Automação (Alto Nível)**. Apaixonado por arquitetura de sistemas e infraestrutura self-hosted.
+<div align="center">
+  <h1>Olá, eu sou o Gabriel Grassmann 👋</h1>
+  <p><b>🎓 Bacharelando em Ciência da Computação na PUC Goiás</b></p>
+  <p>Focado na convergência entre Hardware (Baixo Nível) e Automação (Alto Nível).</p>
+</div>
 
 ---
 
 ### 🛠️ Foco & Especialização
-* 🐳 **Infraestrutura:** Orquestração de containers com **Docker** e gestão de servidores Linux.
-* 🤖 **Automação:** Fluxos inteligentes com **n8n**, **Firecrawl** e extração de dados.
-* 💻 **Web Design:** Interfaces de alta conversão e animações fluidas para projetos premium.
-* 📖 **Acadêmico:** Aprofundando em **Arquitetura de Computadores** e **Engenharia de Software**.
+* 🐳 **Infraestrutura:** Orquestração de containers com **Docker**.
+* 🤖 **Automação:** Fluxos inteligentes com **n8n** e **Firecrawl**.
+* 💻 **Web Design:** Interfaces de alta conversão para projetos premium.
+* 📖 **Acadêmico:** **Arquitetura de Computadores** e **Engenharia de Software**.
 
 ---
 
@@ -24,24 +25,23 @@
 
 ---
 
-### 📚 Learning Journey (Jornada de Aprendizado)
+### 📚 Learning Journey
 - **Arquitetura de Sistemas:** Ciclo de instrução e memória cache (Patterson & Hennessy).
-- **Estrutura de Dados:** Implementações robustas em **C**.
+- **Estrutura de Dados:** Implementações em **C**.
 - **DevOps:** Redes de containers e segurança de servidores.
 
 ---
 
-### 🛠️ Lab de Experimentos (Projetos Principais)
+### 🛠️ Lab de Experimentos
 | Projeto | Status | Descrição |
 | :--- | :---: | :--- |
-| **[Site de Vendas](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)** | 🟢 Ativo | Modelos premium focados em conversão e UI/UX. |
-| **N8N Automation** | 🟡 Testing | Automação de extração de leads via Firecrawl. |
-| **PUC-GO Labs** | 🔵 Acadêmico | Algoritmos, Estrutura de Dados e Exercícios de Cálculo. |
+| **[Site de Vendas](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)** | 🟢 Ativo | Modelos premium focados em conversão. |
+| **N8N Automation** | 🟡 Testing | Automação de extração de dados. |
+| **PUC-GO Labs** | 🔵 Acadêmico | Repositório de algoritmos e exercícios. |
 
 ---
 
 ### 📊 Estatísticas & Performance
-
 <div align="center">
   <table border="0">
     <tr align="center">
@@ -57,13 +57,6 @@
 
 ---
 
-### 🎮 Atividade no GitHub (Snake Game)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 🎧 Recentemente no Spotify
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielsolera00&count=5" alt="Spotify" />
@@ -71,7 +64,7 @@
 
 ---
 
-### 📫 Vamos Conversar?
+### 📫 Conecte-se comigo:
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielsolera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -84,6 +77,4 @@
 
 ---
 
-<p align="center">
-  <i>"Hardware é o que você chuta, software é o que você xinga, mas a Ciência da Computação é o que explica por que os dois funcionam."</i>
-</p>
+<p align="center"><i>"Hardware é o que você chuta, software é o que você xinga, mas a Ciência da Computação é o que explica por que os dois funcionam."</i></p>
