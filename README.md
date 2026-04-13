@@ -42,9 +42,9 @@ Focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automaç�
 
 ### 📊 Estatísticas e Performance:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&langs_count=7&theme=dracula" alt="Linguagens" />
 </div>
 
 <div align="center">
