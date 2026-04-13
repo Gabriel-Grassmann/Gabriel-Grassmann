@@ -61,14 +61,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Grassmann&theme=dracula" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" width="100%" />
-</div>
-
 ---
 
 ### 🎮 Atividade no GitHub (Snake Game)
