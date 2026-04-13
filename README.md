@@ -42,16 +42,17 @@ Focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automaç�
 
 ### 📊 Estatísticas e Performance:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Grassmann&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Grassmann&theme=dracula" alt="Detalhes do Perfil" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
