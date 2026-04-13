@@ -6,7 +6,7 @@
   <h1>Olá, eu sou o Gabriel Grassmann 👋</h1>
   <p><b>🎓 Bacharelando em Ciência da Computação na PUC Goiás</b></p>
   <img src="https://geps.dev/progress/40" alt="Curso Progress" /> 
-  <p><i>Atualmente no 3º/4º Período | Focado em Hardware & Automação</i></p>
+  <p><i>Atualmente no 3º/4º Período | Focado em Programação & Desenvolvimento de Web Sites</i></p>
 </div>
 
 ---
