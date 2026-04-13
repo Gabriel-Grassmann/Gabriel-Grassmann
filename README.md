@@ -65,7 +65,7 @@ Focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automaç�
 
 ### 🎧 Listening Now:
 <div align="left">
-  <img src="https://novatorem-readme-spotify.vercel.app/api/now-playing?uid=SEU_ID_DO_SPOTIFY" alt="Spotify" />
+  <img src="https://novatorem-readme-spotify.vercel.app/api/now-playing?uid=gabrielsolera00" alt="Spotify" />
 </div>
 
 ---
