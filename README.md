@@ -13,15 +13,10 @@ Atualmente mergulhado no mundo da **Engenharia de Software**, **Arquitetura de C
 
 ---
 
-### 💻 Stack Técnica:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, JavaScript (Node.js), C, SQL |
-| **Infra & DevOps** | Docker, Git, Linux (Terminal), GitHub Actions |
-| **Automação** | n8n, Web Scraping (Firecrawl), APIs |
-| **Web Design** | HTML5, CSS3 (Advanced Animations), Webflow |
-| **Outros** | Rojo (3D Environments/Scripting) |
+### 🚀 Principais Tecnologias:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,c,docker,linux,git,github,html,css,webflow,nodejs,postgres&theme=dark" />
+</p>
 
 ---
 
@@ -30,6 +25,10 @@ Atualmente mergulhado no mundo da **Engenharia de Software**, **Arquitetura de C
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" />
 </div>
 
 ---
@@ -43,7 +42,8 @@ Onde o Cálculo e a Teoria da Computação se encontram com a prática:
 
 ### 📫 Conecte-se comigo:
 
-- 💼 [LinkedIn](www.linkedin.com/in/gabrielsolera) - 📂 [Meus Modelos de Sites](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielsolera) 
+- 📂 [Meus Modelos de Sites](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)
 - 📧 [E-mail](mailto:gabrielsolera00@gmail.com)
 
 ---
