@@ -63,8 +63,9 @@ Focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automaç�
 
 ---
 
+### 🎧 Recently Played on Spotify:
 <p align="left">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=Gabe&count=1&theme=dark" alt="Recentemente tocado" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielsolera00&count=3" alt="Gabriel's Spotify" />
 </p>
 
 ---
