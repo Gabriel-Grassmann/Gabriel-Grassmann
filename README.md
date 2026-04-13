@@ -1,25 +1,26 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
   <h1>Olá, eu sou o Gabriel Grassmann 👋</h1>
   <p><b>🎓 Bacharelando em Ciência da Computação na PUC Goiás</b></p>
-  <p>Focado na convergência entre Hardware (Baixo Nível) e Automação (Alto Nível).</p>
+  <img src="https://geps.dev/progress/40" alt="Curso Progress" /> 
+  <p><i>Atualmente no 3º/4º Período | Focado em Hardware & Automação</i></p>
 </div>
 
 ---
 
-### 🛠️ Foco & Especialização
-* 🐳 **Infraestrutura:** Orquestração de containers com **Docker**.
-* 🤖 **Automação:** Fluxos inteligentes com **n8n** e **Firecrawl**.
-* 💻 **Web Design:** Interfaces de alta conversão para projetos premium.
-* 📖 **Acadêmico:** **Arquitetura de Computadores** e **Engenharia de Software**.
+### 🛠️ Especialização & Foco
+- 🐳 **Infraestrutura:** Orquestração de containers com **Docker**.
+- 🤖 **Automação:** Fluxos inteligentes com **n8n** e **Firecrawl**.
+- 💻 **Web Design:** UI/UX de alta conversão para projetos premium.
+- 📖 **Acadêmico:** **Arquitetura de Computadores** e **Cálculo**.
 
 ---
 
 ### 🚀 Stack Tecnológica
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,c,docker,linux,git,github,html,css,webflow,nodejs,postgres,bash,obsidian&theme=dark" />
 </p>
 
@@ -27,12 +28,12 @@
 
 ### 📚 Learning Journey
 - **Arquitetura de Sistemas:** Ciclo de instrução e memória cache (Patterson & Hennessy).
-- **Estrutura de Dados:** Implementações em **C**.
-- **DevOps:** Redes de containers e segurança de servidores.
+- **Estrutura de Dados:** Implementações robustas em **C**.
+- **DevOps:** Redes de containers e segurança de servidores self-hosted.
 
 ---
 
-### 🛠️ Lab de Experimentos
+### 🛠️ Lab de Experimentos (Projetos)
 | Projeto | Status | Descrição |
 | :--- | :---: | :--- |
 | **[Site de Vendas](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)** | 🟢 Ativo | Modelos premium focados em conversão. |
