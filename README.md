@@ -5,76 +5,81 @@
 # Olá, eu sou o Gabriel Grassmann 👋
 
 ### 🎓 Bacharelando em Ciência da Computação na PUC Goiás
-Focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automações)**. Apaixonado por arquitetura de sistemas, infraestrutura auto-hospedada e a matemática por trás da computação.
+> Focado na convergência entre **Hardware (Baixo Nível)** e **Automação (Alto Nível)**. Apaixonado por arquitetura de sistemas e infraestrutura self-hosted.
 
 ---
 
-### 🛠️ No que estou focado:
-- 🐳 **Infraestrutura:** Orquestração de containers com **Docker** e gestão de servidores Linux.
-- 🤖 **Automação:** Fluxos de IA e Web Scraping com **n8n** e **Firecrawl**.
-- 💻 **Web Design:** UI/UX de alta conversão para projetos de vendas e sites premium.
-- 📖 **Acadêmico:** Aprofundando em **Arquitetura de Computadores** e **Cálculo**.
+### 🛠️ Foco & Especialização
+* 🐳 **Infraestrutura:** Orquestração de containers com **Docker** e gestão de servidores Linux.
+* 🤖 **Automação:** Fluxos inteligentes com **n8n**, **Firecrawl** e extração de dados.
+* 💻 **Web Design:** Interfaces de alta conversão e animações fluidas para projetos premium.
+* 📖 **Acadêmico:** Aprofundando em **Arquitetura de Computadores** e **Engenharia de Software**.
 
 ---
 
-### 📚 Learning Journey (Jornada de Aprendizado):
-- **Arquitetura de Sistemas:** Explorando o ciclo de instrução e memória cache (Patterson & Hennessy).
-- **Estrutura de Dados:** Implementação de listas, pilhas e filas em **C**.
-- **DevOps:** Aprofundando em redes de containers e segurança de servidores self-hosted.
-
----
-
-### 🚀 Stack Tecnológica:
+### 🚀 Stack Tecnológica
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,c,docker,linux,git,github,html,css,webflow,nodejs,postgres,bash,obsidian&theme=dark" />
 </p>
 
 ---
 
-### 🛠️ Lab de Experimentos:
+### 📚 Learning Journey (Jornada de Aprendizado)
+- **Arquitetura de Sistemas:** Ciclo de instrução e memória cache (Patterson & Hennessy).
+- **Estrutura de Dados:** Implementações robustas em **C**.
+- **DevOps:** Redes de containers e segurança de servidores.
+
+---
+
+### 🛠️ Lab de Experimentos (Projetos Principais)
 | Projeto | Status | Descrição |
-| :--- | :--- | :--- |
-| **[Site de Vendas](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)** | 🟢 Ativo | Modelos premium focados em conversão. |
-| **N8N Automation** | 🟡 Em Teste | Automação de extração de leads via Firecrawl. |
-| **PUC-GO Labs** | 🔵 Acadêmico | Repositório de algoritmos e exercícios de Cálculo. |
+| :--- | :---: | :--- |
+| **[Site de Vendas](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)** | 🟢 Ativo | Modelos premium focados em conversão e UI/UX. |
+| **N8N Automation** | 🟡 Testing | Automação de extração de leads via Firecrawl. |
+| **PUC-GO Labs** | 🔵 Acadêmico | Algoritmos, Estrutura de Dados e Exercícios de Cálculo. |
 
 ---
 
-### 📊 Estatísticas e Performance:
+### 📊 Estatísticas & Performance
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas" />
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&langs_count=7&theme=dracula" alt="Linguagens" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Grassmann&theme=dracula" alt="Detalhes do Perfil" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&theme=dracula" />
+      </td>
+    </tr>
+  </table>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Grassmann&theme=dracula" />
 </div>
 
 ---
 
-### 🎮 Atividade no GitHub (Snake Game):
+### 🎮 Atividade no GitHub (Snake Game)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### 🎧 Recently Played on Spotify:
-<p align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielsolera00&count=3" alt="Gabriel's Spotify" />
-</p>
+### 🎧 Recentemente no Spotify
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielsolera00&count=5" alt="Spotify" />
+</div>
 
 ---
 
-### 📫 Conecte-se comigo:
-<p align="left">
-<a href="https://www.linkedin.com/in/gabrielsolera" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:gabrielsolera00@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+### 📫 Vamos Conversar?
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielsolera" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gabrielsolera00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
