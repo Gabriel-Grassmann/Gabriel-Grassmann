@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d4ff&height=200&section=header&text=Gabriel%20Grassmann&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d4ff&height=200&section=header&text=Gabriel%20Grassmann&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Banner" />
 </div>
 
 # Olá, eu sou o Gabriel Grassmann 👋
 
 ### 🎓 Bacharelando em Ciência da Computação na PUC Goiás
-Atualmente focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automações)**. Apaixonado por arquitetura de sistemas, infraestrutura auto-hospedada e a matemática por trás da computação.
+Focado na ponte entre o **baixo nível (Hardware)** e o **alto nível (Automações)**. Apaixonado por arquitetura de sistemas, infraestrutura auto-hospedada e a matemática por trás da computação.
 
 ---
 
@@ -13,7 +13,14 @@ Atualmente focado na ponte entre o **baixo nível (Hardware)** e o **alto nível
 - 🐳 **Infraestrutura:** Orquestração de containers com **Docker** e gestão de servidores Linux.
 - 🤖 **Automação:** Fluxos de IA e Web Scraping com **n8n** e **Firecrawl**.
 - 💻 **Web Design:** UI/UX de alta conversão para projetos de vendas e sites premium.
-- 📖 **Acadêmico:** Aprofundando em **Arquitetura de Computadores** (Patterson & Hennessy) e **Cálculo**.
+- 📖 **Acadêmico:** Aprofundando em **Arquitetura de Computadores** e **Cálculo**.
+
+---
+
+### 📚 Learning Journey (Jornada de Aprendizado):
+- **Arquitetura de Sistemas:** Explorando o ciclo de instrução e memória cache (Patterson & Hennessy).
+- **Estrutura de Dados:** Implementação de listas, pilhas e filas em **C**.
+- **DevOps:** Aprofundando em redes de containers e segurança de servidores self-hosted.
 
 ---
 
@@ -24,10 +31,23 @@ Atualmente focado na ponte entre o **baixo nível (Hardware)** e o **alto nível
 
 ---
 
+### 🛠️ Lab de Experimentos:
+| Projeto | Status | Descrição |
+| :--- | :--- | :--- |
+| **[Site de Vendas](https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas)** | 🟢 Ativo | Modelos premium focados em conversão. |
+| **N8N Automation** | 🟡 Em Teste | Automação de extração de leads via Firecrawl. |
+| **PUC-GO Labs** | 🔵 Acadêmico | Repositório de algoritmos e exercícios de Cálculo. |
+
+---
+
 ### 📊 Estatísticas e Performance:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Grassmann&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Grassmann&theme=dracula" />
 </div>
 
 <div align="center">
@@ -43,18 +63,17 @@ Atualmente focado na ponte entre o **baixo nível (Hardware)** e o **alto nível
 
 ---
 
-### 📖 Jornada na PUC Goiás
-Onde a teoria encontra a prática:
-* **Foco Atual:** Otimização de algoritmos e entendimento do ciclo de instrução.
-* **Ferramentas de Estudo:** Uso intenso de **Obsidian** para documentação técnica.
+### 🎧 Listening Now:
+<div align="left">
+  <img src="https://novatorem-readme-spotify.vercel.app/api/now-playing?uid=SEU_ID_DO_SPOTIFY" alt="Spotify" />
+</div>
 
 ---
 
 ### 📫 Conecte-se comigo:
 <p align="left">
-<a href="https://www.linkedin.com/in/gabrielsolera" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:gabrielsolera00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Gabriel-Grassmann/Modelos-de-Sites-para-Vendas" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabrielsolera" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:gabrielsolera00@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
