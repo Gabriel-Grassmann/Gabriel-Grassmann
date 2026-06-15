@@ -58,13 +58,6 @@
 
 ---
 
-### 🎧 Recentemente no Spotify
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielsolera00&count=5" alt="Spotify" />
-</div>
-
----
-
 ### 📫 Conecte-se comigo:
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielsolera" target="_blank">
