@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Gabriel Grassmann, Full Stack Developer">
   <defs>
     <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#2563eb"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0.15"/>
     </linearGradient>
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -44,7 +44,7 @@
   <rect x="0.5" y="0.5" width="1199" height="319" rx="20" fill="none" stroke="url(#edge)"/>
 
   <!-- intro -->
-  <text x="64" y="92" class="mono fade d1" font-size="16" fill="#8b949e">~/goiania-br <tspan fill="#22d3ee">$</tspan> whoami</text>
+  <text x="64" y="92" class="mono fade d1" font-size="16" fill="#8b949e">~/goiania-br <tspan fill="#2563eb">$</tspan> whoami</text>
   <text x="62" y="156" class="sans fade d2" font-size="56" font-weight="800" fill="#f0f6fc" letter-spacing="-1.5">Gabriel Grassmann</text>
   <text x="64" y="200" class="sans fade d3" font-size="26" font-weight="600" fill="url(#text)">Full Stack Developer</text>
   <text x="64" y="244" class="sans fade d4" font-size="17" fill="#8b949e">SaaS, sites de alta conversão e automações. Do zero ao deploy.</text>
@@ -58,11 +58,11 @@
     <text x="210" y="27" text-anchor="middle" class="mono" font-size="12" fill="#6e7681">gabriel.ts</text>
     <line x1="0" y1="42" x2="420" y2="42" stroke="#21262d"/>
     <g class="mono" font-size="14.5">
-      <text x="22" y="72"><tspan fill="#ff7b72">const</tspan><tspan fill="#d2a8ff"> gabriel</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
+      <text x="22" y="72"><tspan fill="#ff7b72">const</tspan><tspan fill="#58a6ff"> gabriel</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
       <text x="42" y="98"><tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"Next.js"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"TS"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Postgres"</tspan><tspan fill="#c9d1d9">],</tspan></text>
       <text x="42" y="124"><tspan fill="#79c0ff">building</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Agenda Conexa"</tspan><tspan fill="#c9d1d9">,</tspan></text>
       <text x="42" y="150"><tspan fill="#79c0ff">studying</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"CC @ PUC Goiás"</tspan><tspan fill="#c9d1d9">,</tspan></text>
-      <text x="22" y="176"><tspan fill="#c9d1d9">};</tspan><tspan class="cursor" fill="#22d3ee"> ▍</tspan></text>
+      <text x="22" y="176"><tspan fill="#c9d1d9">};</tspan><tspan class="cursor" fill="#2563eb"> ▍</tspan></text>
     </g>
   </g></g>
 </svg>

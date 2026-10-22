@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Construo+SaaS+com+Next.js+e+TypeScript;Landing+pages+focadas+em+convers%C3%A3o;Automa%C3%A7%C3%B5es+com+n8n+e+Firecrawl;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+PUC+Goi%C3%A1s" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3b82f6&center=true&vCenter=true&width=560&lines=Construo+SaaS+com+Next.js+e+TypeScript;Landing+pages+focadas+em+convers%C3%A3o;Automa%C3%A7%C3%B5es+com+n8n+e+Firecrawl;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+PUC+Goi%C3%A1s" alt="Typing SVG" /></a>
   <br/><br/>
-  <a href="https://www.linkedin.com/in/gabrielsolera"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-  <a href="mailto:gabrielsolera00@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-Grassmann&label=visitas&color=7c3aed&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/gabrielsolera"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2563eb" /></a>
+  <a href="mailto:gabrielsolera00@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-Grassmann&label=visitas&color=1d4ed8&style=for-the-badge" />
 </div>
 
 <br/>
@@ -35,7 +35,7 @@
       <p>Site de uma academia em Goiânia com 12 anos de história, em produção. Feito para converter visitas em matrículas e ser encontrado no Google.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/SEO-0d1117?style=flat-square&logo=googlesearchconsole&logoColor=22d3ee" />
+      <img src="https://img.shields.io/badge/SEO-0d1117?style=flat-square&logo=googlesearchconsole&logoColor=2563eb" />
       <br/><br/>
       <a href="https://www.fitness4you.app.br/"><b>Ver ao vivo →</b></a>
     </td>
@@ -68,16 +68,16 @@ const focoAtual = {
 ## 📊 GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Gabriel-Grassmann&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Grassmann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=2563eb&text_color=c9d1d9&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Gabriel-Grassmann&layout=compact&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&locale=pt-br" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Gabriel-Grassmann&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&stroke=30363D&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com/?user=Gabriel-Grassmann&hide_border=true&background=0D1117&ring=3b82f6&fire=2563eb&currStreakLabel=3b82f6&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&stroke=30363D&locale=pt_BR" />
 </div>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-snake-purple.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-snake-blue.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" />
   <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Gabriel-Grassmann/Gabriel-Grassmann/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
