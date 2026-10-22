@@ -7,7 +7,6 @@
   <br/><br/>
   <a href="https://www.linkedin.com/in/gabrielsolera"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2563eb" /></a>
   <a href="mailto:gabrielsolera00@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-Grassmann&label=visitas&color=1d4ed8&style=for-the-badge" />
 </div>
 
 <br/>
