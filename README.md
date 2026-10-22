@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://app-barber-flow-winb.vercel.app"><img src="./assets/agenda.jpg" alt="Agenda Conexa" width="100%" /></a>
+      <a href="https://www.agendaconexa.com.br"><img src="./assets/agenda.jpg" alt="Agenda Conexa" width="100%" /></a>
       <h3>✂️ Agenda Conexa</h3>
       <p>SaaS de gestão para barbearias: agendamento online 24h, equipe e comissões, caixa, relatórios e assinatura mensal, com LGPD.</p>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
       <br/><br/>
-      <a href="https://app-barber-flow-winb.vercel.app"><b>Ver ao vivo →</b></a>
+      <a href="https://www.agendaconexa.com.br"><b>Ver ao vivo →</b></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.fitness4you.app.br/"><img src="./assets/fitness.jpg" alt="Fitness 4 You" width="100%" /></a>
